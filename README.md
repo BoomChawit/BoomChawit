@@ -1,6 +1,6 @@
 ### Welcome to my space ! 👋
 
-![](https://github.com/BoomChawit/BoomChawit/blob/main/Pics/memoji.gif)
+![](https://github.com/BoomChawit/BoomChawit/blob/main/Pics/BoomChawit_Memoji.gif)
 
 <a href="https://www.instagram.com/b.chawit">
   <img align="left" alt="BoomChawit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />

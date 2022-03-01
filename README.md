@@ -11,8 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <img align="left" alt="BoomChawit's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=BoomChawit.BoomChawit)
-
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BoomChawit.BoomChawit)](https://github.com/BoomChawit)
 
 <details>
   <summary> GitHub Stats</summary>

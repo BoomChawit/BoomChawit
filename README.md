@@ -1,7 +1,8 @@
 ### Welcome to my space ! 👋
 
 
-**BoomChawit/BoomChawit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Visits Badge](https://badges.pufler.dev/visits/BoomChawit/BoomChawit)
+![](https://visitor-badge.glitch.me/badge?page_id=BoomChawit.BoomChawit)
 
 Plan
 

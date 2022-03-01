@@ -3,6 +3,7 @@
 <a href="https://www.instagram.com/b.chawit">
   <img align="left" alt="BoomChawit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=BoomChawit.BoomChawit)
 
 Plan

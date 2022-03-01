@@ -1,7 +1,7 @@
 ### Welcome to My Space! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
 
-<img align="left" alt="ChawitGIF" img src="https://github.com/BoomChawit/BoomChawit/blob/main/Pics/Memoji_BoomChawit.gif" height="300"/>
+<img align="right" alt="ChawitGIF" img src="https://github.com/BoomChawit/BoomChawit/blob/main/Pics/Memoji_BoomChawit.gif" height="300"/>
 
 ### Boom Chawit 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

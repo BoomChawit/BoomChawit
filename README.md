@@ -1,18 +1,14 @@
 ### Welcome to My Space! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
 
-<img align="center" alt="ChawitGIF" img src="https://github.com/BoomChawit/BoomChawit/blob/main/Pics/Memoji_BoomChawit.gif" height="300"/>
+<img align="left" alt="ChawitGIF" img src="https://github.com/BoomChawit/BoomChawit/blob/main/Pics/Memoji_BoomChawit.gif" height="300"/>
 
-# Boom Chawit
-
-I 
+### Boom Chawit 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 <a href="https://www.instagram.com/b.chawit">
-  <img align="left" alt="BoomChawit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://github.com/BoomChawit">
-  <img alt="Github" src="https://www.flaticon.com/search?word=social%20media&type=icon&color=color&order_by=4" />
+  <img align="left" alt="BoomChawit's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=BoomChawit.BoomChawit)

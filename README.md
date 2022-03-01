@@ -1,8 +1,7 @@
 ### Welcome to my space ! 👋
 
 <video width="320" height="240" controls>
-  <source src="pics/memoji.mov" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="Pics/memoji.mov" type="video/mp4">
 </video>
 
 <a href="https://www.instagram.com/b.chawit">

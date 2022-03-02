@@ -27,6 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br /><br />
 
 ### Coding with
+
 <img align="left" alt="vs" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="left" alt="jupyter" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
 <img align="left" alt="python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -46,6 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img align="left" alt="php" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img align="left" alt="wordpress" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 <img align="left" alt="digitalocean" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">
+
 <br><br><br>
 
 <!-- http://localhost/callback/?code=AQDOj9GVn_N3tpgB0EkjEEZMDNgnMBU-ekqnKdeTq30keNhsj0bWtETiUNCVHhmU3NtLWDW9j9ob9EdgbKjq-hkH8R4L4BRGbi2U4ok9q8ts9hD7CFb_heEdZakTcEl44yw_AI6ONkeMPkRLICAmXkEsXT5W5D4xvNdsoYiGu7pCP6MxjFf4OwVoFdOHHiqVEcGrTdudRvYNV4MHkLXo3CvaZgtEp0eazVl4qgq-usor9XmDeWo

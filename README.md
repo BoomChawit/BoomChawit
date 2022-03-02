@@ -3,6 +3,8 @@
 
 <p align="center"><img alt="ChawitGIF" img src="https://github.com/BoomChawit/BoomChawit/blob/main/Pics/Memoji_BoomChawit.gif" height="400"/></p>
 
+[![Spotify](https://spotify-now-playing-smoky-five.vercel.app//api/spotify)](https://open.spotify.com/user/314ft2p24omnvcnd6pqb6si4gcea)
+
 ### Boom Chawit [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BoomChawit.BoomChawit)](https://github.com/BoomChawit)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -45,6 +47,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img align="left" alt="wordpress" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 <img align="left" alt="digitalocean" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">
 <br><br><br>
+
+<!-- http://localhost/callback/?code=AQDOj9GVn_N3tpgB0EkjEEZMDNgnMBU-ekqnKdeTq30keNhsj0bWtETiUNCVHhmU3NtLWDW9j9ob9EdgbKjq-hkH8R4L4BRGbi2U4ok9q8ts9hD7CFb_heEdZakTcEl44yw_AI6ONkeMPkRLICAmXkEsXT5W5D4xvNdsoYiGu7pCP6MxjFf4OwVoFdOHHiqVEcGrTdudRvYNV4MHkLXo3CvaZgtEp0eazVl4qgq-usor9XmDeWo
+
+ZGE1MTUwYjM1OGM0NGJiNzkzY2RkOThkM2M4MjIyM2I6YTYzNTdhNTMyNDA3NGMyMzkwMWNiMTc5MzIwYmQ5NWE=
+
+curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorization: Basic ZGE1MTUwYjM1OGM0NGJiNzkzY2RkOThkM2M4MjIyM2I6YTYzNTdhNTMyNDA3NGMyMzkwMWNiMTc5MzIwYmQ5NWE=" -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code=AQDOj9GVn_N3tpgB0EkjEEZMDNgnMBU-ekqnKdeTq30keNhsj0bWtETiUNCVHhmU3NtLWDW9j9ob9EdgbKjq-hkH8R4L4BRGbi2U4ok9q8ts9hD7CFb_heEdZakTcEl44yw_AI6ONkeMPkRLICAmXkEsXT5W5D4xvNdsoYiGu7pCP6MxjFf4OwVoFdOHHiqVEcGrTdudRvYNV4MHkLXo3CvaZgtEp0eazVl4qgq-usor9XmDeWo" https://accounts.spotify.com/api/token
+
+{"access_token":"BQAtDl6rGJvg42wOQ5L_8nM_ueDGMqSlqzbiCJtadWvfUM14Dvm7Tx41s9cn8oT-zjnFiodPWjxoyyTWM553oG1KaJ4s1SnDcxUz_cWadkGFN6iGzh-lfStPUVNahX8dZ37VI63dldDMS_UO4VGLlJk3nnu9IrS5tCO5ygCFrEhBQQ","token_type":"Bearer","expires_in":3600,"refresh_token":"AQCuEIiLSy9CE5nS7shcul6UmllR1KOVLnOSqW9tNGZXByTcpCw76befW-SWj3wIhkerer97INFNrIdUBtVYkHTIIycqNG4tIWFsTTg_m7LuNCMReIGk6chNzkU5q8t1FAI","scope":"user-read-currently-playing user-read-recently-played"}
+
+AQCuEIiLSy9CE5nS7shcul6UmllR1KOVLnOSqW9tNGZXByTcpCw76befW-SWj3wIhkerer97INFNrIdUBtVYkHTIIycqNG4tIWFsTTg_m7LuNCMReIGk6chNzkU5q8t1FAI -->
 
 <!-- ### Currently learning
 <img align="left" alt="nodejs" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">

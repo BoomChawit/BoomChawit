@@ -1,34 +1,4 @@
-### Welcome to My Space! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BoomChawit.BoomChawit)](https://github.com/BoomChawit)
-
-<img align = 'right' alt="ChawitGIF" img src="https://github.com/BoomChawit/BoomChawit/blob/main/Pics/Memoji_BoomChawit.gif" height="400"/>
-
-### Boom Chawit 
-  
-```python
-
-class BoomChawit:
-
-    def __init__(self):
-        self.name = "Chawit Kaewnuratchadasor"
-        self.pronouns = ["He", "Him"
-        self.role = "Machine Learning Engineer"
-        self.langauge = {
-           "Thai" : "Native",
-           "English" : "Fluent",
-        }
-
-    def say_hi(self):
-        print("Hello World!")
-
-
-me = BoomChawit()
-me.say_hi()
-
-
-```
- 
+# Welcome to My Space! [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BoomChawit.BoomChawit)](https://github.com/BoomChawit)
 
 <a href="https://www.instagram.com/b.chawit">
   <img align="left" alt="BInstagram" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg"/>
@@ -45,11 +15,36 @@ me.say_hi()
 <a href="boomchawit.2203@gmail.com">
   <img align="left" alt="BGmail" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg"/>
 </a>
-<br /><br />
+<br><br>
 
-[![Spotify](https://spotify-now-playing-smoky-five.vercel.app//api/spotify)](https://open.spotify.com/user/314ft2p24omnvcnd6pqb6si4gcea)
+## Boom Chawit 
 
-### Coding with
+<img align = "right" alt="ChawitGIF" img src="https://github.com/BoomChawit/BoomChawit/blob/main/Pics/Memoji_BoomChawit.gif" height="200"/>
+
+```python
+
+class BoomChawit:
+
+    def __init__(self):
+        self.name = "Chawit Kaewnuratchadasor"
+        self.pronouns = ["He", "Him"]
+        self.role = "Machine Learning Engineer"
+        self.langauge = {
+           "Thai" : "Native",
+           "English" : "Fluent",
+        }
+
+    def say_hi(self):
+        print("Hello World!")
+
+
+me = BoomChawit()
+me.say_hi()
+
+
+```
+
+## Coding with
 
 <img align="left" alt="vs" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="left" alt="jupyter" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
@@ -73,15 +68,7 @@ me.say_hi()
 
 <br><br><br>
 
-<!-- http://localhost/callback/?code=AQDOj9GVn_N3tpgB0EkjEEZMDNgnMBU-ekqnKdeTq30keNhsj0bWtETiUNCVHhmU3NtLWDW9j9ob9EdgbKjq-hkH8R4L4BRGbi2U4ok9q8ts9hD7CFb_heEdZakTcEl44yw_AI6ONkeMPkRLICAmXkEsXT5W5D4xvNdsoYiGu7pCP6MxjFf4OwVoFdOHHiqVEcGrTdudRvYNV4MHkLXo3CvaZgtEp0eazVl4qgq-usor9XmDeWo
-
-ZGE1MTUwYjM1OGM0NGJiNzkzY2RkOThkM2M4MjIyM2I6YTYzNTdhNTMyNDA3NGMyMzkwMWNiMTc5MzIwYmQ5NWE=
-
-curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorization: Basic ZGE1MTUwYjM1OGM0NGJiNzkzY2RkOThkM2M4MjIyM2I6YTYzNTdhNTMyNDA3NGMyMzkwMWNiMTc5MzIwYmQ5NWE=" -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code=AQDOj9GVn_N3tpgB0EkjEEZMDNgnMBU-ekqnKdeTq30keNhsj0bWtETiUNCVHhmU3NtLWDW9j9ob9EdgbKjq-hkH8R4L4BRGbi2U4ok9q8ts9hD7CFb_heEdZakTcEl44yw_AI6ONkeMPkRLICAmXkEsXT5W5D4xvNdsoYiGu7pCP6MxjFf4OwVoFdOHHiqVEcGrTdudRvYNV4MHkLXo3CvaZgtEp0eazVl4qgq-usor9XmDeWo" https://accounts.spotify.com/api/token
-
-{"access_token":"BQAtDl6rGJvg42wOQ5L_8nM_ueDGMqSlqzbiCJtadWvfUM14Dvm7Tx41s9cn8oT-zjnFiodPWjxoyyTWM553oG1KaJ4s1SnDcxUz_cWadkGFN6iGzh-lfStPUVNahX8dZ37VI63dldDMS_UO4VGLlJk3nnu9IrS5tCO5ygCFrEhBQQ","token_type":"Bearer","expires_in":3600,"refresh_token":"AQCuEIiLSy9CE5nS7shcul6UmllR1KOVLnOSqW9tNGZXByTcpCw76befW-SWj3wIhkerer97INFNrIdUBtVYkHTIIycqNG4tIWFsTTg_m7LuNCMReIGk6chNzkU5q8t1FAI","scope":"user-read-currently-playing user-read-recently-played"}
-
-AQCuEIiLSy9CE5nS7shcul6UmllR1KOVLnOSqW9tNGZXByTcpCw76befW-SWj3wIhkerer97INFNrIdUBtVYkHTIIycqNG4tIWFsTTg_m7LuNCMReIGk6chNzkU5q8t1FAI -->
+[![Spotify](https://spotify-now-playing-smoky-five.vercel.app//api/spotify)](https://open.spotify.com/user/314ft2p24omnvcnd6pqb6si4gcea)
 
 <!-- ### Currently learning
 <img align="left" alt="nodejs" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -113,7 +100,7 @@ Plan
 - Favourite Music
 - Games I play
 
-<h3 align="left">Support:</h3>
+## Support
 <p><a href="https://www.buymeacoffee.com/boomchawit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="boomchawit" /></a></p>
 <br><br><br>
 

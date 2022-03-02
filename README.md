@@ -44,7 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img align="left" alt="php" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img align="left" alt="wordpress" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 <img align="left" alt="digitalocean" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">
-<br /><br />
+<br><br><br>
 
 <!-- ### Currently learning
 <img align="left" alt="nodejs" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -66,7 +66,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <img src = "https://img.shields.io/github/watchers/BoomChawit/BoomChawit?style=social"/> -->
-  
+   
 Plan
 
 - Pic

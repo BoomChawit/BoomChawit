@@ -88,3 +88,5 @@ Plan
 - Favourite Music
 - Games I play
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/boomchawit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="boomchawit" /></a></p><br><br>

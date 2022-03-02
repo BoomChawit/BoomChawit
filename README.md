@@ -1,25 +1,25 @@
 # Welcome to My Space! [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BoomChawit.BoomChawit)](https://github.com/BoomChawit)
 
 <a href="https://www.instagram.com/b.chawit">
-  <img align="left" alt="BInstagram" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg"/>
+  <img align="left" alt="BInstagram" height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
 </a>
 <a href="https://www.facebook.com/boomchawit">
-  <img align="left" alt="BFacebook" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg"/>
+  <img align="left" alt="BFacebook" height="30" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>
 </a>
 <a href="https://www.linkedin.com/in/bchawit">
-  <img align="left" alt="BLinkedIn" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg"/>
+  <img align="left" alt="BLinkedIn" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
 <a href="https://github.com/BoomChawit">
-  <img align="left" alt="BGitHub" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg"/>
+  <img align="left" alt="BGitHub" height="30" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>
 </a>
 <a href="boomchawit.2203@gmail.com">
-  <img align="left" alt="BGmail" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg"/>
+  <img align="left" alt="BGmail" height="32" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
 </a>
 <br><br>
 
 ## Boom Chawit 
+<img align="right" alt="ChawitGIF" src="https://github.com/BoomChawit/BoomChawit/blob/main/Pics/Memoji_BoomChawit.gif" height="250" />
 
-<img align = "right" alt="ChawitGIF" img src="https://github.com/BoomChawit/BoomChawit/blob/main/Pics/Memoji_BoomChawit.gif" height="200"/>
 
 ```python
 

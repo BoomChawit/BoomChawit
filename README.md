@@ -91,4 +91,8 @@ Plan
 - Games I play
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/boomchawit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="boomchawit" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/boomchawit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="boomchawit" /></a></p>
+<br><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boomchawit&show_icons=true&locale=en&layout=compact" alt="boomchawit" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boomchawit&" alt="boomchawit" /></p>

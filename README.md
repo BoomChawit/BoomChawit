@@ -18,7 +18,7 @@
 <br><br>
 
 ## Boom Chawit 
-<img align="right" alt="ChawitGIF" src="https://github.com/BoomChawit/BoomChawit/blob/main/Pics/Memoji_BoomChawit.gif" height="250" />
+<img align="right" alt="ChawitGIF" src="https://github.com/BoomChawit/BoomChawit/blob/main/Pics/Memoji_BoomChawit.gif" height="240" />
 
 
 ```python
@@ -29,14 +29,10 @@ class BoomChawit:
         self.name = "Chawit Kaewnuratchadasor"
         self.pronouns = ["He", "Him"]
         self.role = "Machine Learning Engineer"
-        self.langauge = {
-           "Thai" : "Native",
-           "English" : "Fluent",
-        }
+        self.langauge = {"Thai" : "Native", "English" : "Fluent"}
 
     def say_hi(self):
         print("Hello World!")
-
 
 me = BoomChawit()
 me.say_hi()

@@ -12,7 +12,7 @@
 <a href="https://github.com/BoomChawit">
   <img align="left" alt="BGitHub" height="30" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>
 </a>
-<a href="boomchawit.2203@gmail.com">
+<a href="mailto:boomchawit.2203@gmail.com">
   <img align="left" alt="BGmail" height="32" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
 </a>
 <br><br>

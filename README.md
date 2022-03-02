@@ -1,13 +1,34 @@
-### Welcome to My Space! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Welcome to My Space! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BoomChawit.BoomChawit)](https://github.com/BoomChawit)
+
+<img align = 'right' alt="ChawitGIF" img src="https://github.com/BoomChawit/BoomChawit/blob/main/Pics/Memoji_BoomChawit.gif" height="400"/>
+
+### Boom Chawit 
+  
+```python
+
+class BoomChawit:
+
+    def __init__(self):
+        self.name = "Chawit Kaewnuratchadasor"
+        self.pronouns = ["He", "Him"
+        self.role = "Machine Learning Engineer"
+        self.langauge = {
+           "Thai" : "Native",
+           "English" : "Fluent",
+        }
+
+    def say_hi(self):
+        print("Hello World!")
 
 
-<p align="center"><img alt="ChawitGIF" img src="https://github.com/BoomChawit/BoomChawit/blob/main/Pics/Memoji_BoomChawit.gif" height="400"/></p>
+me = BoomChawit()
+me.say_hi()
 
-[![Spotify](https://spotify-now-playing-smoky-five.vercel.app//api/spotify)](https://open.spotify.com/user/314ft2p24omnvcnd6pqb6si4gcea)
 
-### Boom Chawit [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BoomChawit.BoomChawit)](https://github.com/BoomChawit)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+```
+ 
 
 <a href="https://www.instagram.com/b.chawit">
   <img align="left" alt="BInstagram" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg"/>
@@ -25,6 +46,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <img align="left" alt="BGmail" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg"/>
 </a>
 <br /><br />
+
+[![Spotify](https://spotify-now-playing-smoky-five.vercel.app//api/spotify)](https://open.spotify.com/user/314ft2p24omnvcnd6pqb6si4gcea)
 
 ### Coding with
 

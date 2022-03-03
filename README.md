@@ -51,22 +51,22 @@ me.say_hi()
 <img align="left" alt="vs" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="left" alt="jupyter" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
 <img align="left" alt="python" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="c" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="matlab" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-<img align="left" alt="r" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+<!-- <img align="left" alt="c" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> -->
+<!-- <img align="left" alt="matlab" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/> -->
+<!-- <img align="left" alt="r" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/> -->
 <img align="left" alt="tensorflow" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
 <img align="left" alt="numpy" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
 <img align="left" alt="pandas" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 <img align="left" alt="html" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="left" alt="css" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="left" alt="js" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="left" alt="jq" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-<img align="left" alt="bs" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-<img align="left" alt="sql" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="flask" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
-<img align="left" alt="php" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img align="left" alt="wordpress" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
-<img align="left" alt="digitalocean" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">
+<!-- <img align="left" alt="jq" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"> -->
+<!-- <img align="left" alt="bs" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> -->
+<!-- <img align="left" alt="sql" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> -->
+<!-- <img align="left" alt="flask" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/> -->
+<!-- <img align="left" alt="php" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> -->
+<!-- <img align="left" alt="wordpress" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"> -->
+<!-- <img align="left" alt="digitalocean" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"> -->
 
 <br><br>
 

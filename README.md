@@ -39,6 +39,12 @@ me.say_hi()
 
 
 ```
+<!-- ## Currently working on 
+
+- Trying to sleep 
+- AI Image Generator from Texts (Autoencoder) 
+- My PortFolio Website by React Native -->
+
 
 ## Coding with
 
@@ -62,9 +68,7 @@ me.say_hi()
 <img align="left" alt="wordpress" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 <img align="left" alt="digitalocean" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">
 
-<br><br><br>
-
-[![Spotify](https://spotify-now-playing-smoky-five.vercel.app//api/spotify)](https://open.spotify.com/user/314ft2p24omnvcnd6pqb6si4gcea)
+<br><br>
 
 <!-- ### Currently learning
 <img align="left" alt="nodejs" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -78,30 +82,18 @@ me.say_hi()
 <img align="left" alt="mongodb" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 <img align="left" alt="vuejs" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
 
-<br /><br />
-<details>
-  <summary>GitHub Stats</summary>
-  <img alt="BoomChawit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BoomChawit&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</details>
-
-
 <img src = "https://img.shields.io/github/watchers/BoomChawit/BoomChawit?style=social"/> -->
-   
-Plan
 
-- Pic
-- Contact + Visitors
-- Currently up to 
-- Skills (Developing, Learning, Planning)
-- Favourite Music
-- Games I play
+## Now Playing
+
+[![Spotify](https://spotify-now-playing-smoky-five.vercel.app//api/spotify)](https://open.spotify.com/user/314ft2p24omnvcnd6pqb6si4gcea)
 
 ## Support
 <p><a href="https://www.buymeacoffee.com/boomchawit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="boomchawit" /></a></p>
-<br><br><br>
+<br><br><br><br>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boomchawit&show_icons=true&locale=en&layout=compact" alt="boomchawit" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boomchawit&" alt="boomchawit" />
-</p>
-
+<details>
+  <summary>GitHub Stats</summary>
+  <img alt="BoomChawit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BoomChawit&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boomchawit&"/>
+</details>

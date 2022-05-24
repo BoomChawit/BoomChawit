@@ -18,8 +18,6 @@
 <br><br>
 
 ## Boom Chawit 
-<img align="right" alt="ChawitGIF" src="https://github.com/BoomChawit/BoomChawit/blob/main/Pics/Memoji_BoomChawit.gif" height="240" />
-
 
 ```python
 
@@ -39,6 +37,9 @@ me.say_hi()
 
 
 ```
+
+<img align="right" alt="ChawitGIF" src="https://github.com/BoomChawit/BoomChawit/blob/main/Pics/Memoji_BoomChawit.gif" height="240" />
+
 <!-- ## Currently working on 
 
 - Trying to sleep 

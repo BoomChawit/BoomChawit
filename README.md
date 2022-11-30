@@ -27,8 +27,7 @@ class BoomChawit:
 
     def __init__(self):
         self.name = "Chawit Kaewnuratchadasor"
-        self.pronouns = ["He", "Him"]
-        self.role = "Machine Learning Engineer"
+        self.role = ["Machine Learning Engineer", "Software Engineer"]
         self.langauge = {"Thai" : "Native", "English" : "Fluent"}
 
     def say_hi(self):
